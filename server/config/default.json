@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://localhost/graphql-ninja",
+    "jwtSecret":"han"
+}
